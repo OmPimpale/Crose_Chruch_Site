@@ -1,4 +1,4 @@
-# Crose Church - Web Template
+# ⛪ Crose Church - Web Template
 
 A beautifully designed and fully responsive Crose Church web template built using HTML, CSS, and JavaScript. This template is crafted for churches, religious organizations, and spiritual communities to establish their online presence with elegance and simplicity.
 
@@ -27,7 +27,7 @@ CSS3 – Styled with modern design techniques
 
 JavaScript – Adds interactivity and functionality
 
-📌 How to Use
+# 📌 How to Use
 
 1. Download or Clone the Repository
 
@@ -41,12 +41,12 @@ cd Crose_Chruch_Site
 
    <br/>
 
-2. Open the Project
+2. Open the Project <br/>
    Extract the files if downloaded as a ZIP.
    Open index.html in a web browser.
    <br/>
 
-3. Customize as Needed
+3. Customize as Needed <br/>
    Modify <strong>style.css</strong> for design changes.
    Update <strong>script.js</strong> for interactive behavior.
 
